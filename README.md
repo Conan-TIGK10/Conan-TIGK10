@@ -20,13 +20,11 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [The Project](#the-project)
-  * [Overview](#overview)
+* [Overview](#overview)
 * [The Team](#the-team)
 
-<!-- THE PROJECT -->
-## The Project
-### Overview
+<!-- OVERVIEW -->
+## Overview
 <img src="https://github.com/Conan-TIGK10/Conan-TIGK10/blob/master/Conan.png" alt="Logo">
 
 <!-- THE TEAM -->

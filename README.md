@@ -27,6 +27,7 @@
 <!-- THE PROJECT -->
 ## The Project
 ### Overview
+<img src="https://github.com/Conan-TIGK10/Conan-TIGK10/blob/master/Conan.png" alt="Logo">
 
 <!-- THE TEAM -->
 ## The Team

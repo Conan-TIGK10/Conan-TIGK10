@@ -17,20 +17,6 @@
   </p>
 </p>
 
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [Overview](#overview)
-* [The Team](#the-team)
-
-<!-- OVERVIEW -->
-## Overview
-<img src="https://github.com/Conan-TIGK10/Conan-TIGK10/blob/master/Conan.png" alt="Logo">
-
-<!-- THE TEAM -->
-## The Team
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/Conan-TIGK10/Conan-TIGK10.svg?style=flat-square

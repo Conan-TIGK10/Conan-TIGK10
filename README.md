@@ -12,7 +12,7 @@
   <h3 align="center">Conan-TIGK10 Project Hub</h3>
 
   <p align="center">
-    A project in the course Innovative Mobile Systems.
+    A project in the course Intelligent Mobile Systems.
     <br />
   </p>
 </p>
